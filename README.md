@@ -1,5 +1,13 @@
 # 🛒 Walmart Sales Analysis & Forecasting
 
+## ⚡ Quick Summary
+
+* 📊 Analyzed 6,435 records of Walmart sales data
+* 🔍 Identified key drivers like unemployment, CPI, and temperature
+* 📈 Built ARIMA model to forecast sales for the next 12 weeks
+
+---
+
 ## 📌 Project Overview
 
 This project focuses on analyzing and predicting the **weekly sales performance** of a retail chain across multiple stores. Using historical data, the analysis explores how **macroeconomic and environmental factors**—such as unemployment, CPI, fuel prices, and temperature—impact sales and customer behavior.
@@ -39,6 +47,24 @@ The project is divided into two main phases:
 
 ---
 
+## 📸 Dashboard Preview
+
+👉 *(Add screenshot of your Power BI dashboard here)*
+![Dashboard](ADD_IMAGE_LINK_HERE)
+
+---
+
+## 🔗 Project Links
+
+* 📁 Dataset: https://www.kaggle.com/datasets/yasserh/walmart-dataset
+* 📊 Python Script (.py): ADD_YOUR_GITHUB_FILE_LINK
+* 📈 Dashboard (Power BI):
+
+  * Option 1: Upload `.pbix` file in GitHub and add link
+  * Option 2 (Best): Share Power BI public link (if published)
+
+---
+
 ## 🔍 Key Insights
 
 * 🏆 **Top Performer:** Store 20 (~$2.07M avg weekly sales)
@@ -68,6 +94,14 @@ The project is divided into two main phases:
 * Time-Series Forecasting using **ARIMA**
 * Predicted sales for the **next 12 weeks**
 * Used insights for demand planning and optimization
+
+---
+
+## 💼 Business Impact
+
+* Improved demand forecasting for better inventory planning
+* Helped identify underperforming stores for strategic action
+* Enabled data-driven decision-making using economic indicators
 
 ---
 
@@ -105,5 +139,10 @@ This project demonstrates the ability to:
 * Apply **statistical testing**
 * Build **predictive models**
 * Generate **business insights & recommendations**
+
+---
+
+⭐ *Turning data into actionable insights for smarter business decisions.*
+
 
 
