@@ -49,16 +49,17 @@ The project is divided into two main phases:
 
 ## 📸 Dashboard Preview
 
-👉 *(Add screenshot of your Power BI dashboard here)*
-![Dashboard](ADD_IMAGE_LINK_HERE)
+👉 
+![Dashboard](<img width="1072" height="615" alt="image" src="https://github.com/user-attachments/assets/b13851d6-bbc7-45a6-8d04-e5fe2c1f5810" />
+)
 
 ---
 
 ## 🔗 Project Links
 
 * 📁 Dataset: https://www.kaggle.com/datasets/yasserh/walmart-dataset
-* 📊 Python Script (.py): ADD_YOUR_GITHUB_FILE_LINK
-* 📈 Dashboard (Power BI):
+* 📊 Python Script (.py): [ADD_YOUR_GITHUB_FILE_LINK](https://github.com/darshinio-debug)
+* 📈 Dashboard (Power BI): 
 
   * Option 1: Upload `.pbix` file in GitHub and add link
   * Option 2 (Best): Share Power BI public link (if published)
@@ -128,6 +129,23 @@ The project is divided into two main phases:
 * Data Visualization (Matplotlib, Seaborn)
 * Statistical Analysis (ANOVA)
 * Time-Series Forecasting (ARIMA)
+
+---
+
+📂 Project Structure
+
+
+## 📂 Project Structure
+
+```
+walmart-sales-analysis/
+│
+├── README.md              
+├── walmart_analysis.py    
+├── walmart_dashboard.pbix 
+├── dashboard.png          
+└── dataset.csv            
+```
 
 ---
 
