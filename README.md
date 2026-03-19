@@ -128,9 +128,6 @@ The project is divided into two main phases:
 
 ---
 
-📂 Project Structure
-
-
 ## 📂 Project Structure
 
 ```
