@@ -50,8 +50,7 @@ The project is divided into two main phases:
 ## 📸 Dashboard Preview
 
 👉 
-![Dashboard](<img width="1072" height="615" alt="image" src="https://github.com/user-attachments/assets/b13851d6-bbc7-45a6-8d04-e5fe2c1f5810" />
-)
+![Dashboard]([(https://github.com/darshinio-debug/Walmart-Sales-forecasting-Analytics/blob/main/Walmart-sales-forecasting-dashboard.png)])
 
 ---
 
@@ -59,10 +58,7 @@ The project is divided into two main phases:
 
 * 📁 Dataset: https://www.kaggle.com/datasets/yasserh/walmart-dataset
 * 📊 Python Script (.py): [ADD_YOUR_GITHUB_FILE_LINK](https://github.com/darshinio-debug)
-* 📈 Dashboard (Power BI): 
-
-  * Option 1: Upload `.pbix` file in GitHub and add link
-  * Option 2 (Best): Share Power BI public link (if published)
+* 📈 Dashboard (Power BI): https://github.com/darshinio-debug/Walmart-Sales-forecasting-Analytics/blob/main/Walmart-Sales-forecasting-Analytics.pbit
 
 ---
 
