@@ -57,7 +57,7 @@ The project is divided into two main phases:
 ## 🔗 Project Links
 
 * 📁 Dataset: https://www.kaggle.com/datasets/yasserh/walmart-dataset
-* 📊 Python Script (.py): [ADD_YOUR_GITHUB_FILE_LINK](https://github.com/darshinio-debug)
+* 📊 Python Script (.py): (https://github.com/darshinio-debug/Walmart-Sales-forecasting-Analytics/blob/main/walmart_project.py)
 * 📈 Dashboard (Power BI): https://github.com/darshinio-debug/Walmart-Sales-forecasting-Analytics/blob/main/Walmart-Sales-forecasting-Analytics.pbit
 
 ---
